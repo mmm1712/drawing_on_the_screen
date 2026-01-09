@@ -56,5 +56,3 @@ This separation ensures responsive performance and clean maintainable code.
 - OpenCV
 - MediaPipe
 - PyQt6
-- NumPy
-
